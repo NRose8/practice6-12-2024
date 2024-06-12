@@ -1,4 +1,4 @@
-name: Workflow
+name: workflow.yml
  
 on:
   workflow_dispatch:
